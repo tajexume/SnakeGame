@@ -18,5 +18,4 @@ class Food:
       self.nibble.clear()
       self.cookFood(scene)
       snake.addTurtle()
-      scene.update()
     scene.listen()
